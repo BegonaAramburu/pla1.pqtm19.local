@@ -31,9 +31,12 @@ Se nos abre el panel de control y tenemos que clicar los *start* de *Apache* y *
 
 Instalación finalizada!!
 
-
-
 ## 2. Configuración Virtual Host de Apache
+
+Configurar un Host Virtual es la mejor solución para obtener proyectos 100% independientes y mantener la raíz del sitio Web autónoma y poder, de esta manera, crear rutas absolutas de archivos y carpetas.
+Para crear un Host
+
+
 ## 3. Instalación de Eclipse
 ## 4. Definición de WorkSpace
 ## 5. Definición de proyecto
