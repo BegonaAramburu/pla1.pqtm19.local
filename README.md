@@ -1,5 +1,5 @@
-# **Configuración de un entorno Web de desarrollo**
-## **Introducción**
+# Configuración de un entorno Web de desarrollo
+## Introducción
 ## Índice
 1. Instalación Xampp
 1. Configuración Virtual Host de Apache
@@ -10,5 +10,15 @@
 1. Creación de un Repositorio de GitHub
 1. Exportación de la rama "master" local sobre el repositorio GitHub
 
-## Instalación de Xampp
+## 1. Instalación de Xampp
+## 2. Configuración Virtual Host de Apache
+## 3. Instalación de Eclipse
+## 4. Definición de WorkSpace
+## 5. Definición de proyecto
+## 6. Definición de repositorio local
+## 7. Creación de un Repositorio de GitHub
+## 8. Exportación de la rama "master" local sobre el repositorio GitHub
+
+
+
 
