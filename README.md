@@ -1,6 +1,6 @@
 # Configuración de un entorno Web de desarrollo
 ## Introducción
-> Este documento es 
+> Este documento es una
 ## Índice
 1. Instalación Xampp
 1. Configuración Virtual Host de Apache
