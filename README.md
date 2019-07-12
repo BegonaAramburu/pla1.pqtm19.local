@@ -39,8 +39,8 @@ Para crear un Host Virtual tendremos que seguir los siguientes pasos:
 que está ubicado en C:\xampp\apache\conf\extra\httpd_vhosts.conf
 ### 2.2. Le añadimos las siguientes líneas de código:
 
-```<VirtualHost *:80>
-
+```
+<VirtualHost *:80>
 	ServerAdmin webmaster@pla1.pqtm19.local
 	DocumentRoot "C:/PQTM19/Projectes/pla1.pqtm19.local"
 	ServerName pla1.pqtm19.local
@@ -54,7 +54,8 @@ que está ubicado en C:\xampp\apache\conf\extra\httpd_vhosts.conf
 		Allow from all
 		Require all granted
 	</Directory>
-</VirtualHost>```
+</VirtualHost>
+```
 
 
 
