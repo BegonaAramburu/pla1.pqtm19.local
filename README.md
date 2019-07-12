@@ -1,3 +1,4 @@
-# pla1.pqtm19.local
-Configurar un entorno web de desarrollo
-prueba 1
+# Configuración de un entorno Web de desarrollo
+## Introducción
+## Índice
+
