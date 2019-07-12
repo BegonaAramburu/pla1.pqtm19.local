@@ -1,4 +1,4 @@
-# Configuración de un entorno Web de desarrollo
+# **Configuración de un entorno Web de desarrollo**
 ## Introducción
 ## Índice
 1. Instalación Xampp
@@ -10,5 +10,5 @@
 1. Creación de un Repositorio de GitHub
 1. Exportación de la rama "master" local sobre el repositorio GitHub
 
-
+## Instalación de Xampp
 
