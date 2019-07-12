@@ -39,6 +39,23 @@ Para crear un Host Virtual tendremos que seguir los siguientes pasos:
 que está ubicado en C:\xampp\apache\conf\extra\httpd_vhosts.conf
 ### 2.2. Le añadimos las siguientes líneas de código:
 
+```<VirtualHost *:80>
+
+	ServerAdmin webmaster@pla1.pqtm19.local
+	DocumentRoot "C:/PQTM19/Projectes/pla1.pqtm19.local"
+	ServerName pla1.pqtm19.local
+	ErrorLog "logs/pla1.pqtm19.local-error.log"
+	CustomLog "logs/pla1.pqtm19.local-access.log" common
+	<Directory "C:/PQTM19/Projectes/pla1.pqtm19.local">
+		DirectoryIndex index.php index.html index.htm
+		Options Indexes FollowSymLinks Includes ExecCGI
+		AllowOverride All 
+		Order allow,deny
+		Allow from all
+		Require all granted
+	</Directory>
+</VirtualHost>```
+
 
 
 ## 3. Instalación de Eclipse
