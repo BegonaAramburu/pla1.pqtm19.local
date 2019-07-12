@@ -37,7 +37,7 @@ Configurar un Host Virtual es la mejor solución para obtener proyectos 100% ind
 Para crear un Host Virtual tendremos que seguir los siguientes pasos:
 ### 2.1. Editamos el archivo httpd_vhosts.conf
 que está ubicado en C:\xampp\apache\conf\extra\httpd_vhosts.conf
-### 2.2. Le añadimos las siguientes líneas de código:
+### 2.2. Le añadimos las siguientes líneas de código al archivo httpd_vhosts.conf:
 
 ```
 <VirtualHost *:80>
@@ -56,6 +56,16 @@ que está ubicado en C:\xampp\apache\conf\extra\httpd_vhosts.conf
 	</Directory>
 </VirtualHost>
 ```
+### 2.3. Abrir el editor Notepad++ en modo administrador y editar el archivo hosts
+que está ubicado en C:\Windows\System32\drivers\etc\hosts
+y le añadimos al final:
+```
+127.0.0.1 pla1.pqtm19.local
+```
+### 2.4. Creamos el directorio:
+C:\PQTM19\Projectes\pla1.pqtm19.local
+
+### 2.5. Reiniciamos Apache
 
 
 
