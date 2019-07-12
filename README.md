@@ -34,7 +34,9 @@ Instalación finalizada!!
 ## 2. Configuración Virtual Host de Apache
 
 Configurar un Host Virtual es la mejor solución para obtener proyectos 100% independientes y mantener la raíz del sitio Web autónoma y poder, de esta manera, crear rutas absolutas de archivos y carpetas.
-Para crear un Host
+Para crear un Host Virtual tendremos que seguir los siguientes pasos:
+### 1. Editamos el archivo http_vhosts.conf
+que está ubicado en C:\xampp\apache\conf\extra\http_vhosts.conf
 
 
 ## 3. Instalación de Eclipse
