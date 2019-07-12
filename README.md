@@ -23,6 +23,7 @@ A continuación nos dirigimos al siguiente enlace https://www.apachefriends.org/
 Una vez tengamos el archivo descargado, haremos un doble clic en él y nos aparecerá un aviso de permisos restringidos. Pulsamos Ok y empezamos con la instalación. Vamos siguiendo las instrucciones *next* y en la pantalla de *Select components* escogeremos los siguientes:
 
 ![select components](./media/Install_Xampp/5_Install_Xampp.PNG)
+Ahora nos muestra la carpeta en la que se va a instalar Xampp, que por defecto será C:\xampp, le decimos *next*
 
 ## 2. Configuración Virtual Host de Apache
 ## 3. Instalación de Eclipse
