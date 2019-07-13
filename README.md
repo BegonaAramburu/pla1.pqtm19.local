@@ -68,7 +68,8 @@ C:\PQTM19\Projectes\pla1.pqtm19.local
 ### 2.5. Reiniciamos Apache
 ### 2.6. Comprobamos que funciona en el navegador
 
-![virtual hosts](./media/Install_Xampp/13_Install_Xampp.PNG)
+![virtual hosts](./media/virtualhost.png)
+
 
 
 
