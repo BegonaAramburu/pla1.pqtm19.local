@@ -12,6 +12,7 @@ Este documento es una guía práctica para crearnos un entorno Web......
 1. Exportación de la rama "master" local sobre el repositorio GitHub
 
 ## 1. Instalación de Xampp
+
 XAMPP es un servidor independiente de plataforma de código libre. Nos permite instalar de forma sencilla Apache en nuestro propio ordenador, obteniendo de este modo un servidor Web.
 XAMPP incluye además servidores de bases de datos como MySQL con su gestor phpMyAdmin e incorpora también el intérprete de PHP, el intérprete de Perl, entre muchas cosas más.
 XAMPP es una herramienta de desarrollo que te permite probar tu trabajo (páginas web o programación por ejemplo) en tu propio ordenador sin necesidad de tener que acceder a internet.
@@ -70,11 +71,18 @@ C:\PQTM19\Projectes\pla1.pqtm19.local
 
 ![virtual hosts](./media/virtualhosts.png)
 
-
-
-
-
 ## 3. Instalación de Eclipse
+
+Eclipse es un entorno integrado de desarrollo de código abierto programado principalmente en Java (por tanto es multiplataforma) para desarrollar proyectos en C, C++, COBOL, Perl, PHP y muchos otros.
+Para instalar Eclipse debemos tener previamente instalado Java Runtime Environment en nuestro ordenador (en versiones de 32 o 64 bits dependiendo de lo que requiera nuestro Windows)
+
+Pàgina de descàrrega de Java Runtime Environment 10 (64 bits)
+http://www.oracle.com/technetwork/java/javase/downloads/jre10-downloads-4417026.html
+Pàgina de descàrrega de Java Runtime Environment 8 (32 bits)
+https://java.com/es/download/manual.jsp
+
+
+
 ## 4. Definición de WorkSpace
 ## 5. Definición de proyecto
 ## 6. Definición de repositorio local
