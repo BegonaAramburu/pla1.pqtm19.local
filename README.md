@@ -68,7 +68,7 @@ C:\PQTM19\Projectes\pla1.pqtm19.local
 ### 2.5. Reiniciamos Apache
 ### 2.6. Comprobamos que funciona en el navegador
 
-![virtual hosts](./media/virtualhost.png)
+![virtual hosts](./media/virtualhosts.png)
 
 
 
