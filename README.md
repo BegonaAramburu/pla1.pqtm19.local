@@ -73,11 +73,11 @@ C:\PQTM19\Projectes\pla1.pqtm19.local
 
 ## 3. Instalación de Eclipse
 
-Eclipse es un entorno integrado de desarrollo de código abierto programado principalmente en Java (por tanto es multiplataforma) para desarrollar proyectos en C, C++, COBOL, Perl, PHP y muchos otros.
-Antes de instalar Eclipse debemos tener previamente instalado Java Runtime Environment en nuestro ordenador (en versiones de 32 o 64 bits dependiendo de lo que requiera nuestro Windows)
-Pàgina de descàrrega de Java Runtime Environment 10 (64 bits)
-http://www.oracle.com/technetwork/java/javase/downloads/jre10-downloads-4417026.html
-Pàgina de descàrrega de Java Runtime Environment 8 (32 bits)
+Eclipse es un entorno integrado de desarrollo de código abierto programado principalmente en Java (por tanto es multiplataforma) para desarrollar proyectos en C, C++, COBOL, Perl, PHP y muchos otros.  
+Antes de instalar Eclipse debemos tener previamente instalado Java Runtime Environment en nuestro ordenador (en versiones de 32 o 64 bits dependiendo de lo que requiera nuestro Windows)  
+Pàgina de descàrrega de Java Runtime Environment 10 (64 bits)  
+http://www.oracle.com/technetwork/java/javase/downloads/jre10-downloads-4417026.html  
+Pàgina de descàrrega de Java Runtime Environment 8 (32 bits)  
 https://java.com/es/download/manual.jsp
 
 Ahora ya estamos preparados para instalar Eclipse. Nos vamos a la pág web:
