@@ -86,6 +86,11 @@ http://www.eclipse.org/downloads/   y hacemos clic en downloads 64 bits. Una vez
 
 ![opcion php](./media/Install_Eclipse/12_Install_Eclipse.PNG)
 
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
 
 
 
