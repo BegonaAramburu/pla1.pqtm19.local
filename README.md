@@ -81,6 +81,7 @@ Pàgina de descàrrega de Java Runtime Environment 8 (32 bits)
 https://java.com/es/download/manual.jsp
 
 Ahora ya estamos preparados para instalar Eclipse. Nos vamos a la pág web:
+
 http://www.eclipse.org/downloads/   y hacemos clic en downloads 64 bits. Una vez descargado el archivo, haremos doble clic en él, entonces nos dará a escoger entre muchas opciones y dependiendo de lo que vayamos a desarrollar elegiremos una u otra. En nuestro caso clicaremos esta:
 
 ![opcion php](./media/Install_Eclipse/12_Install_Eclipse.PNG)
