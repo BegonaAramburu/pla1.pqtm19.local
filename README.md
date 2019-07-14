@@ -140,10 +140,16 @@ Escribiremos el nombre del nuevo Repositorio que estamos creando
 
 ![nombre Repositorio](./media/nombreRepositorio.png)
 
-
-
+Y clicaremos en *Create Repositoire*.  
+Ya tenemos el repositorio remoto creado en GitHub!!!
 
 ## 8. Exportación de la rama "master" local sobre el repositorio GitHub
+
+Ahora tenemos creado un repositorio local en Eclipse y uno remoto en GitHub que tienen el mismo nombre: *pla1.pqtm19.local*.  
+El siguiente paso será replicar el repositorio local de Eclipse en la rama *master* del repositorio remoto de Git Hub. Esto lo haremos de la siguiente manera:
+
+### 8.1 Copiar URL  
+Entramos en GitHub, en nuestros repositorios, clicamos en el repositorio *pla1.pqtm19.local*
 
 
 
