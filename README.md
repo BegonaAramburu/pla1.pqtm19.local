@@ -38,7 +38,7 @@ Instalación finalizada!!
 
 Configurar un Host Virtual es la mejor solución para obtener proyectos 100% independientes y mantener la raíz del sitio Web autónoma y poder, de esta manera, crear rutas absolutas de archivos y carpetas.
 Para crear un Host Virtual tendremos que seguir los siguientes pasos:
-> ### 2.1. Editamos el archivo httpd_vhosts.conf
+### 2.1. Editamos el archivo httpd_vhosts.conf
 que está ubicado en C:\xampp\apache\conf\extra\httpd_vhosts.conf
 ### 2.2. Le añadimos las siguientes líneas de código al archivo httpd_vhosts.conf:
 
