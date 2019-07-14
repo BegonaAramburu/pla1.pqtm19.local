@@ -106,7 +106,10 @@ Cada vez que abrimos Eclipse, nos preguntará en qué *workspace* queremos traba
 Como he dicho anteriormente Eclipse organiza los ficheros en proyectos y nos los muestra en la ventana *Project Explorer* (a la izquierda de la pantalla) que en realidad, es nuestro *workspace*.  
 Para crear un proyecto, vamos al comando File->New->Project:
 
+aquí va la foto de newproject
 
+Nosotros vamos a crear un proyecto llamado:  
+pla1.pqtm19.local
 
 
 Eclipse organitza els fitxers en projectes, que es mostren a la finestra Explorador de Projectes
