@@ -91,14 +91,14 @@ Cuando llegamos a esta página la instalación está finalizada y solo debemos c
 
 ![opcion php](./media/Install_Eclipse/18_Install_Eclipse.PNG)
 
-
-
-
-
-
-
-
 ## 4. Definición de WorkSpace
+
+En Eclipse, los archivos se agrupan en proyectos y estos, a su vez, se agrupan en espacios de trabajo o *workspaces*.
+Se pueden tener definidos diversos *workspaces* pero sólo se puede tener abierto uno, para cambiar de espacio de trabajo hay que cerrar y abrir de nuevo Eclipse o bien utilizar el comando File->Switch Workspace...  
+Físicamente, cada *workspace* se guarda en el disco duro del ordenador en una carpeta diferente. En ella, Eclipse guarda los archivos de configuración de Eclipse y la información de los proyectos, carpetas y archivos incluidos en cada proyecto.
+
+Cada vez que abrimos Eclipse, nos preguntará en qué *workspace* queremos trabajar, mostrándonos como predeterminado el último que hemos utilizado, por este motivo, es importante no marcar el checkbox *"Use this as the default ..."*, para poder escoger en qué *workspace* queremos trabajar.
+
 ## 5. Definición de proyecto
 ## 6. Definición de repositorio local
 ## 7. Creación de un Repositorio de GitHub
