@@ -106,30 +106,19 @@ Cada vez que abrimos Eclipse, nos preguntará en qué *workspace* queremos traba
 Como he dicho anteriormente Eclipse organiza los ficheros en proyectos y nos los muestra en la ventana *Project Explorer* (a la izquierda de la pantalla) que en realidad, es nuestro *workspace*.  
 Para crear un proyecto, vamos al comando File->New->Project:
 
-aquí va la foto de newproject
+aquí va la foto de newproject --------------------------------------------------------------------------
 
 Nosotros vamos a crear un proyecto llamado:  
-pla1.pqtm19.local
+pla1.pqtm19.local que estará dentro del *workspace*: C:\PQTM19\Projectes
 
+foto pla10 ----------------------------------------------------------------------------------------------
 
-Eclipse organitza els fitxers en projectes, que es mostren a la finestra Explorador de Projectes
-(Project Explorer) situada a la part esquerra i que en un espai de treball acabat de crear es
-mostra buida.
-Per crear un projecte, triï l'opció de menú File-> New-> Project ...:
-S'obrirà una finestra de creació del projecte en el qual pot escriure el nom del projecte. Aquest
-no ha de contenir espais ni accents, ja que Eclipse l'utilitza per construir les URL. Els projectes
-es guarden per defecte en l'espai de treball. En l'exemple, s'ha escrit el nom "PQTM17".
-Nota: Ens quedarà la ruta del projecte a la carpeta C:\xampp\htdocs\PQTM17, que com hem
-desenvolupat en pràctiques anteriors hi tenim el directori arrel del lloc web “localhost” de
-Apache que es connecta amb la URL http://localhost . Per accedí a l’arrel del projecte haurem
-de definir la URL http://localhost/PQTM17
-La finestra de creació de projectes té dues pantalles més amb opcions de configuració que no
-es tracten aquí. Per crear el projecte, feu clic a Finish.
-Feu clic a la fletxa situada a l'esquerra del projecte per mostrar el contingut del projecte. La
-fletxa canvia d'orientació en mostrar o ocultar el contingut.
-A l'Explorador d'arxius de Windows pot comprovar que en l'espai de treball s'ha creat la
-carpeta "PQTM17":
+Clicamos en *next* y después *finish* y ya nos aparecerá en la ventana *Project Explorer*.  
+En el explorador de Windows podemos comprobar cómo nos ha creado la carpeta dentro del directorio que le hemos indicado.
+
 ## 6. Definición de repositorio local
+
+
 ## 7. Creación de un Repositorio de GitHub
 ## 8. Exportación de la rama "master" local sobre el repositorio GitHub
 
