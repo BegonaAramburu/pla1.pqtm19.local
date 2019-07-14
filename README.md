@@ -178,6 +178,8 @@ Si ahora volvemos a GitHub y hacemos un*refresh*, veremos que nos aparece el arc
 
 Es muy conveniente añadir un README para explicar en qué consiste y cómo funciona este repositorio tal y cómo estoy haciendo.
 
+![añadir Readme](./media/addReadme.png)
+
 
 
 
