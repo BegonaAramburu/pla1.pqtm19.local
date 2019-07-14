@@ -1,7 +1,10 @@
 # Configuración de un entorno Web de desarrollo
 ## Introducción
-Este documento es una guía práctica para crearnos un entorno Web......
+
+Este documento es una guía práctica para crearnos un entorno Web de desarrollo con la instalación de Xampp, creación de un Virtual Host de Apache, y definir un proyecto con el editor Eclipse creándonos un repositorio local y otro remoto en GitHub y sincronizándolos entre sí.
+
 ## Índice
+
 1. Instalación Xampp
 1. Configuración Virtual Host de Apache
 1. Instalación de Eclipse
