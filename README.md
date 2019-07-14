@@ -162,6 +162,25 @@ Desde la perspectiva Git de Eclipse (si no tenemos la opción abierta sería: Wi
 
 ![push branch master](./media/pushBranch.png)
 
+Nos aparece una pantalla en donde tendremos que pegar la URL del repositorio remoto de GitHub que hemos copiado anteriormente y automáticamente se nos rellenaran los campos con los datos quedando de la siguiente manera:
+
+![pegar URL](./media/pegarURL.png)
+
+Continuamos con *preview* hasta llegar a la pantalla en dónde nos pide la confirmación de *Push* y clicaremos Push
+
+![push](./media/pushConfirm.png)
+
+Eclipse nos confirma el resultado y tenemos que clicar *close*
+
+![fin push](./media/closePush.png)
+
+Si ahora volvemos a GitHub y hacemos un*refresh*, veremos que nos aparece el archivo *index.html* en nuestro repositorio remoto de Git.
+
+Es muy conveniente añadir un README para explicar en qué consiste y cómo funciona este repositorio tal y cómo estoy haciendo.
+
+
+
+
 
 
 
