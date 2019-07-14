@@ -149,7 +149,14 @@ Ahora tenemos creado un repositorio local en Eclipse y uno remoto en GitHub que 
 El siguiente paso será replicar el repositorio local de Eclipse en la rama *master* del repositorio remoto de Git Hub. Esto lo haremos de la siguiente manera:
 
 ### 8.1 Copiar URL  
-Entramos en GitHub, en nuestros repositorios, clicamos en el repositorio *pla1.pqtm19.local*
+Entramos en GitHub, en nuestros repositorios, clicamos en el repositorio *pla1.pqtm19.local* y copiamos la URL:
+
+![URL](./media/copiaURL.png)
+
+Vamos a Eclipse, entramos en nuestro repositorio local e ignoramos todos los archivos que nos crea por defecto Eclipe y GitHub y que no son específicos de nuestro proyecto
+
+![ignorar](./media/ignore.png)
+
 
 
 
