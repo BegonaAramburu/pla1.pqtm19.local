@@ -89,7 +89,7 @@ http://www.eclipse.org/downloads/   y hacemos clic en downloads 64 bits. Una vez
 A continuación le indicaremos en qué carpeta queremos instalarlo y clicaremos en *install*, aceptamos licencias y comienza la instalación. Cuando lleguemos a la página de *Certificates* tendremos que marcar los dos checkbox que hay y aceptar selección.
 Cuando llegamos a esta página la instalación está finalizada y solo debemos clicar en *launch*
 
-![opcion php](./media/Install_Eclipse/18_Install_Eclipse.PNG)
+![descarga finalizada](./media/Install_Eclipse/18_Install_Eclipse.PNG)
 
 ## 4. Definición de WorkSpace
 
@@ -104,14 +104,14 @@ Cada vez que abrimos Eclipse, nos preguntará en qué *workspace* queremos traba
 ## 5. Definición de proyecto
 
 Como he dicho anteriormente Eclipse organiza los ficheros en proyectos y nos los muestra en la ventana *Project Explorer* (a la izquierda de la pantalla) que en realidad, es nuestro *workspace*.  
-Para crear un proyecto, vamos al comando File->New->Project:
+Para crear un proyecto, vamos al comando File->New->PHP Project:
 
-![workspace](./media/new_project.png)
+![nuevo proyecto](./media/new_project.png)
 
 Nosotros vamos a crear un proyecto llamado:  
 pla1.pqtm19.local que estará dentro del *workspace*: C:\PQTM19\Projectes
 
-![workspace](./media/pla10.PNG)
+![proyecto creado](./media/pla10.PNG)
 
 Clicamos en *next* y después *finish* y ya nos aparecerá en la ventana *Project Explorer*.  
 En el explorador de Windows podemos comprobar cómo nos ha creado la carpeta dentro del directorio que le hemos indicado.
@@ -122,7 +122,7 @@ En general, trabajaremos con un repositorio local, que es el que tenemos en nues
 Para crear nuestro repositorio local, nos situaremos encima de nuestro proyecto en *Project Explorer* y con el menú contextual iremos a  
 New-> Other-> Git-> Git Repository *Next* y ahora nos sale una pantalla para que a través de *Browse* podamos escoger dónde colocar el repositorio:
 
-![workspace](./media/repositorioLocal.png)
+![repositorio local](./media/repositorioLocal.png)
 
 Ahora podremos observar que en el *Project Explorer* nos sale el nombre del proyecto con el icono de repositorio.
 
@@ -130,7 +130,16 @@ Ahora podremos observar que en el *Project Explorer* nos sale el nombre del proy
 
 Una vez nos hayamos creado una cuenta en GitHub (debemos acordarnos de confirmar nuestra dirección de correo desde el mail que envía GitHub), podemos acceder desde nuestro perfil a *Your repositories*
 
-![workspace](./media/yourRepositories.png)
+![tus repositorios](./media/yourRepositories.png)
+
+Clicaremos en *New*
+
+![nuevoRepositorio](./media/newRepositoire.png)
+
+Escribiremos el nombre del nuevo Repositorio que estamos creando
+
+![nombre Repositorio](./media/nombreRepositorio.png)
+
 
 
 
