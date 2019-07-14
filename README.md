@@ -75,17 +75,21 @@ C:\PQTM19\Projectes\pla1.pqtm19.local
 
 Eclipse es un entorno integrado de desarrollo de código abierto programado principalmente en Java (por tanto es multiplataforma) para desarrollar proyectos en C, C++, COBOL, Perl, PHP y muchos otros.  
 Antes de instalar Eclipse debemos tener previamente instalado Java Runtime Environment en nuestro ordenador (en versiones de 32 o 64 bits dependiendo de lo que requiera nuestro Windows)  
-Pàgina de descàrrega de Java Runtime Environment 10 (64 bits)  
+Página de descarga de Java Runtime Environment 10 (64 bits)  
 http://www.oracle.com/technetwork/java/javase/downloads/jre10-downloads-4417026.html  
-Pàgina de descàrrega de Java Runtime Environment 8 (32 bits)  
+Página de descarga de Java Runtime Environment 8 (32 bits)  
 https://java.com/es/download/manual.jsp
 
 Ahora ya estamos preparados para instalar Eclipse. Nos vamos a la pág web:
 
-http://www.eclipse.org/downloads/   y hacemos clic en downloads 64 bits. Una vez descargado el archivo, haremos doble clic en él, entonces nos dará a escoger entre muchas opciones y dependiendo de lo que vayamos a desarrollar elegiremos una u otra. En nuestro caso clicaremos esta:
+http://www.eclipse.org/downloads/   y hacemos clic en downloads 64 bits. Una vez descargado el archivo, haremos doble clic en él, entonces nos dará a escoger entre muchas opciones y dependiendo de lo que vayamos a desarrollar elegiremos una u otra. En nuestro caso clicaremos en esta:
 
 ![opcion php](./media/Install_Eclipse/12_Install_Eclipse.PNG)
 
+A continuación le indicaremos en qué carpeta queremos instalarlo y clicaremos en *install*, aceptamos licencias y comienza la instalación. Cuando lleguemos a la página de *Certificates* tendremos que marcar los dos checkbox que hay y aceptar selección.
+Cuando llegamos a esta página la instalación está finalizada y solo debemos clicar en *launch*
+
+![opcion php](./media/Install_Eclipse/18_Install_Eclipse.PNG)
 
 
 
