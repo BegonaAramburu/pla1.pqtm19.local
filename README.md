@@ -122,7 +122,7 @@ En general, trabajaremos con un repositorio local, que es el que tenemos en nues
 Para crear nuestro repositorio local, nos situaremos encima de nuestro proyecto en *Project Explorer* y con el menú contextual iremos a  
 New-> Other-> Git-> Git Repository *Next* y ahora nos sale una pantalla para que a través de *Browse* podamos escoger dónde colocar el repositorio:
 
-foto repositoriolocal--------------------------------------------------------------------------
+![workspace](./media/repositorioLocal.png)
 
 Ahora podremos observar que en el *Project Explorer* nos sale el nombre del proyecto con el icono de repositorio.
 
