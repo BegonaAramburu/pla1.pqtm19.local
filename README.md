@@ -99,6 +99,9 @@ Físicamente, cada *workspace* se guarda en el disco duro del ordenador en una c
 
 Cada vez que abrimos Eclipse, nos preguntará en qué *workspace* queremos trabajar, mostrándonos como predeterminado el último que hemos utilizado, por este motivo, es importante no marcar el checkbox *"Use this as the default ..."*, para poder escoger en qué *workspace* queremos trabajar.
 
+![workspace](./media/workspace.png)
+
+
 ## 5. Definición de proyecto
 ## 6. Definición de repositorio local
 ## 7. Creación de un Repositorio de GitHub
