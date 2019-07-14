@@ -28,7 +28,7 @@ Una vez tengamos el archivo descargado, haremos un doble clic en él y nos apare
 Ahora nos muestra la carpeta en la que se va a instalar Xampp, que por defecto será C:\xampp, le decimos *next*, aquí y en las pantallas siguientes hasta que sale *Ready to install* y entonces empezará la instalación. Parará un momento para preguntarnos si queremos iniciar el panel de control y marcaremos el checkbox, *next*, escogemos el idioma (inglés o alemán) y *save*.
 Se nos abre el panel de control y tenemos que clicar los *start* de *Apache* y *MySQL*, siendo ésta la imagen final:
 
-![panel de control](./media/virtualhost.png)
+![panel de control](./media/Install_Xampp/13_Install_Xampp.PNG)
 
 Instalación finalizada!!
 
