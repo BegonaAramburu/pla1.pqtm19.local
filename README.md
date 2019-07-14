@@ -153,9 +153,19 @@ Entramos en GitHub, en nuestros repositorios, clicamos en el repositorio *pla1.p
 
 ![URL](./media/copiaURL.png)
 
-Vamos a Eclipse, entramos en nuestro repositorio local e ignoramos todos los archivos que nos crea por defecto Eclipe y GitHub y que no son específicos de nuestro proyecto
+Vamos a Eclipse, entramos en nuestro repositorio local e ignoramos todos los archivos que nos crea por defecto Eclipe y GitHub y que no son específicos de nuestro proyecto.
 
 ![ignorar](./media/ignore.png)
+
+También crearemos un archivo nuevo llamado index.html para tener algo que subir al Git.  
+Desde la perspectiva Git de Eclipse (si no tenemos la opción abierta sería: Window-> Perspective->Open perspective->Other->Git), seleccionamos el repositorio local *pla1.pqtm19.local* y con el menú contextual clicamos en *Push Branch master*
+
+![push branch master](./media/pushBranch.png)
+
+
+
+
+
 
 
 
