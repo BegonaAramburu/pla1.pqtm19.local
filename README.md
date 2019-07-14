@@ -128,7 +128,9 @@ Ahora podremos observar que en el *Project Explorer* nos sale el nombre del proy
 
 ## 7. Creación de un Repositorio de GitHub
 
-Una vez nos hayamos creado una cuenta en GitHub (debemos acordarnos de confirmar nuestra dirección de correo desde el mail que envía GitHub), podemos acceder desde nuestro xxxxxx a *Mis repositorios*
+Una vez nos hayamos creado una cuenta en GitHub (debemos acordarnos de confirmar nuestra dirección de correo desde el mail que envía GitHub), podemos acceder desde nuestro perfil a *Your repositories*
+
+
 ## 8. Exportación de la rama "master" local sobre el repositorio GitHub
 
 
