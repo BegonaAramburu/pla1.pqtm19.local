@@ -150,16 +150,20 @@ Ya tenemos el repositorio remoto creado en GitHub!!!
 Ahora tenemos creado un repositorio local en Eclipse y uno remoto en GitHub que tienen el mismo nombre: *pla1.pqtm19.local*.  
 El siguiente paso será replicar el repositorio local de Eclipse en la rama *master* del repositorio remoto de Git Hub. Esto lo haremos de la siguiente manera:
 
-### 8.1 Copiar URL  
+### 8.1. Copiar URL  
 Entramos en GitHub, en nuestros repositorios, clicamos en el repositorio *pla1.pqtm19.local* y copiamos la URL:
 
 ![URL](./media/copiaURL.png)
 
+### 8.2. Ignoramos archivos  
 Vamos a Eclipse, entramos en nuestro repositorio local e ignoramos todos los archivos que nos crea por defecto Eclipe y GitHub y que no son específicos de nuestro proyecto.
 
 ![ignorar](./media/ignore.png)
 
-También crearemos un archivo nuevo llamado index.html para tener algo que subir al Git.  
+### 8.3. Creamos un archivo .html  
+También crearemos un archivo nuevo llamado index.html para tener algo que subir al Git. 
+
+### 8.4. Push Branch *master*
 Desde la perspectiva Git de Eclipse (si no tenemos la opción abierta sería: Window-> Perspective->Open perspective->Other->Git), seleccionamos el repositorio local *pla1.pqtm19.local* y con el menú contextual clicamos en *Push Branch master*
 
 ![push branch master](./media/pushBranch.png)
@@ -176,8 +180,10 @@ Eclipse nos confirma el resultado y tenemos que clicar *close*
 
 ![fin push](./media/closePush.png)
 
+### 8.5. *Refresh* en GitHub
 Si ahora volvemos a GitHub y hacemos un*refresh*, veremos que nos aparece el archivo *index.html* en nuestro repositorio remoto de Git.
 
+### 8.6. Añadimos el README.md
 Es muy conveniente añadir un README para explicar en qué consiste y cómo funciona este repositorio tal y cómo estoy haciendo.
 
 ![añadir Readme](./media/addReadme.png)
